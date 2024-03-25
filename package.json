@@ -2,7 +2,7 @@
 "name": "dialer"
 	, "version": "0.0.1"
 	, "dependencies": {
-		"express": "3.4.2"
+		"express": "4.19.2"
 		, "ejs": "0.8.4"
 		, "webworker-threads": "0.4.7"
 	}
